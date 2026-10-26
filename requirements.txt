@@ -1,0 +1,9 @@
+# 核心依赖（纯 numpy/scipy 即可完成全部算法，不强制 scikit-learn）
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.6
+
+# 可选：仅用于与自写实现做对照验证
+# scikit-learn>=1.3
